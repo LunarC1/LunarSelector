@@ -6,8 +6,9 @@ This library is used in combination with [LunarLib](https://github.com/LunarC1/L
 2. Put "lunarselector/selector.h" in include folder
 3. Put "lunarselector/selector.cpp" in src folder
 4. Make sure to "#include "lunarselector/selector.h" at the top of main.cpp
-5. Change the contents of your autonomous in the void statements in main.cpp
-6. You're all set!
+5. Copy and paste code before and in "void initialize()" as well as "void autonomous()"
+6. Change the contents of your autonomous in the void statements in main.cpp
+7. You're all set!
 
 ## Displaying custom images on the brain screen
 1. Go to [LVGL Converter](https://lvgl.io/tools/imageconverter) and select LVGL V8
