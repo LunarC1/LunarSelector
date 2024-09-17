@@ -1,5 +1,5 @@
 #include "main.h"
-#include "selector.h"
+#include "lunarselector/selector.h"
 
 // Path names: 
 // Test, Pos Red, Neg Red, Pos Blue, Neg Blue, Skills
